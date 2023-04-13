@@ -39,6 +39,16 @@ public class SandwichShop {
         // Display cost of sandwich
         System.out.printf("Cost of sandwich: $%.2f%n", finalPrice);
 
+
+        System.out.println("Would You like the Sandwich Loaded?");
+        String LoadedOrNot= Scanner.nextline()
+        if ()
+
+
         scanner.close();
+
+
+
+
     }
 }
